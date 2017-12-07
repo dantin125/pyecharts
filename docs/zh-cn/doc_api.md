@@ -1,10 +1,5 @@
 # pyecharts 文档-API 篇
 
-#### [pyecharts 文档-预览篇](https://github.com/chenjiandongx/pyecharts/blob/master/docs/zh-cn/doc_prepare.md)
-#### [pyecharts 文档-图形篇](https://github.com/chenjiandongx/pyecharts/blob/master/docs/zh-cn/doc_charts.md)
-#### [pyecharts 文档-版本篇](https://github.com/chenjiandongx/pyecharts/blob/master/changelog.md)
-#### [pyecharts 文档-画廊篇](https://github.com/chenjiandongx/pyecharts/blob/master/docs/zh-cn/doc_gallery.md)
-#### [pyecharts 文档-FAQ 篇](https://github.com/chenjiandongx/pyecharts/blob/master/docs/zh-cn/doc_faq.md)
 
 本文档描述了 pyecharts 库一些公开的 API，以供开发者之使用。
 
@@ -56,7 +51,7 @@ pyecharts.configure(P1=V1, P2=V2,...)
 
 图表类是 pyecharts 库中最为核心的内容，每一个类代表了 [Echarts](http://echarts.baidu.com/) 中一个图表类型。下表显示了这些图表的继承体系。
 
-![class-relationship-diagram](https://github.com/chenjiandongx/pyecharts/blob/master/images/class-relationship-diagram.png)
+![class-relationship-diagram](https://raw.githubusercontent.com/chenjiandongx/pyecharts/master/images/class-relationship-diagram.png)
 
 ### 属性
 
